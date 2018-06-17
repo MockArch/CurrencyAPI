@@ -1,1 +1,1 @@
-web: CurrencyAPI
+web: CurrencyAPI 
