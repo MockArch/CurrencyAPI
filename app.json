@@ -1,0 +1,11 @@
+{
+  "name": "currency convertor",
+  "description": "The api currency app",
+  "keywords": [
+    "go",
+    "sample",
+    "example"
+  ],
+  "website": "",
+  "repository": ""
+}
